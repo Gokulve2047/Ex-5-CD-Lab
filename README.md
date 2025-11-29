@@ -2,7 +2,7 @@
 RECOGNITION OF THE GRAMMAR(anb where n>=10) USING YACC
 # Name: GOKUL VE
 # Reg.no: 212224220029
-# Date: 31/10/2025
+# Date: 6/10/2025
 # Aim:
 To write a YACC program to recognize the grammar anb where n>=10.
 # ALGORITHM
